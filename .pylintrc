@@ -1,0 +1,7 @@
+[pylint]
+ignore=
+    migrations,
+    manage.py,
+    __init__.py,
+    apps.py,
+disable=C0301, R0911, R0914, R0915, W0614, W0401
